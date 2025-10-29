@@ -1,5 +1,4 @@
-<html>
-<title>my website</title>
+
 <style>
   body{
     background-image: url('SPORT.jpg');
